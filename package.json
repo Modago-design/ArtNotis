@@ -1,0 +1,32 @@
+{
+  "name": "artnotis",
+  "version": "1.0.0",
+  "description": "A flexible JavaScript library for creating customizable web notifications (toasts).",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "notifications",
+    "toasts",
+    "alerts",
+    "web",
+    "javascript"
+  ],
+  "author": "Motka <motka020504@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Modago-design/ArtNotis.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Modago-design/ArtNotis.git"
+  },
+  "homepage": "https://github.com/Modago-design/ArtNotis.git",
+  "files": [
+    "index.js",
+    "notifications.js",
+    "notifications.css"
+  ]
+}
