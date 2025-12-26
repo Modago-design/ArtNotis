@@ -1,8 +1,6 @@
 # ArtNotis
 This is a library for quick and easy creation of custom notifications with flexible settings and a simple usage structure.
-# Документация по библиотеке Notification
-
-## Введение
+# Документация по библиотеке ArtNotis
 
 Библиотека ArtNotis — это простая и гибкая JavaScript-библиотека для создания всплывающих уведомлений (тостов) в веб-приложениях. Она позволяет отображать сообщения разных типов (success, error, info, warning) с кастомизацией внешнего вида, анимациями, кнопками, прогресс-баром и другими функциями. Библиотека написана на чистом JavaScript (ES6), не зависит от фреймворков и легко интегрируется в любой проект.
 
